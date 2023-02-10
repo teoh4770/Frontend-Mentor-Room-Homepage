@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@500;600;700&display=swap");
 
-:root {
-  --top-section-height: 60%;
-  --bottom-section-height: 40%;
-}
-
 /* 
   1. Use a more-intuitive box-sizing model.
 */
@@ -374,16 +369,8 @@ nav .link:hover {
     width: 100%;
   }
 
-  .hero-mission-container {
-    height: var(--top-section-height);
-  }
-
   .pic {
     height: 100%;
-  }
-
-  .about-section {
-    height: var(--bottom-section-height);
   }
 
   .second-slider {
