@@ -1,10 +1,9 @@
 # Frontend Mentor - Room homepage
 
+This is a solution to the [Room Homepage](https://teoh4770.github.io/Frontend-Mentor-Room-Homepage/)
+
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
 
-# Frontend Mentor - Room homepage
-
-This is a solution to the [Room Homepage](https://teoh4770.github.io/Frontend-Mentor-Room-Homepage/)
 
 ## Table of contents
 
